@@ -1,0 +1,27 @@
+.h1-header {
+  stroke-width: 5px;
+  stroke-dasharray: 200;
+  stroke-dashoffset: -200;
+  animation: text 15s linear infinite;
+  /* animation-delay: 1s; */
+}
+
+@keyframes text {
+  /* 75% {
+    fill: transparent;
+    stroke-dashoffset: 0;
+    stroke-width: 5px;
+  } */
+  /* 0% { */
+  /* fill: #f3f3f3; */
+  /* stroke-dashoffset: 35%;
+    stroke-width: 0;
+    stroke-dasharray: 0 70%; */
+  /* fill: transparent; */
+  /* transform: translateX(0%);
+  } */
+  80% {
+    stroke-dashoffset: 0;
+    /* transform: translateX(100%); */
+  }
+}
