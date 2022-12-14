@@ -10,3 +10,23 @@ img {
   width: 600px;
   height: 500px;
 }
+p {
+  font-family: "Noto Sans TC", sans-serif;
+  font-size: 1.5rem;
+}
+
+img {
+  height: 50vh;
+  width: 30vw;
+  border-radius: 50%;
+}
+
+.wish,
+.help {
+  cursor: pointer;
+}
+
+.wish:hover,
+.help:hover {
+  border: 1px solid black;
+}

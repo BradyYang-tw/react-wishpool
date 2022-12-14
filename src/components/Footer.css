@@ -1,0 +1,12 @@
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: azure;
+  min-height: 10vh;
+}
+
+.icon {
+  width: 2vw;
+  height: 2vw;
+}
