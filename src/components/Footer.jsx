@@ -7,7 +7,7 @@ import youtube from "../Icons/youtube.svg";
 
 const Footer = () => {
   return (
-    <div class="footer">
+    <div className="footer">
       <a href="#">
         <img className="icon" src={fb} alt="" />
       </a>
