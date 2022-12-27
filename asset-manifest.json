@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-wishpool/static/css/main.0de35e26.css",
+    "main.js": "/react-wishpool/static/js/main.00a3fb85.js",
+    "static/media/who.jpg": "/react-wishpool/static/media/who.4cf68d26ddfe370a07e1.jpg",
+    "static/media/vote.jpg": "/react-wishpool/static/media/vote.3d3501493ad56668b9c1.jpg",
+    "static/media/wishImg.jpg": "/react-wishpool/static/media/wishImg.69d130e7eac13967c23c.jpg",
+    "static/media/helpImg.jpg": "/react-wishpool/static/media/helpImg.5ba4df1dfe31b4c7e5fe.jpg",
+    "static/media/instagram.svg": "/react-wishpool/static/media/instagram.39233d759772f9dfd8ce0634a5dd5a17.svg",
+    "static/media/twitter.svg": "/react-wishpool/static/media/twitter.ecd0c3396bcc06c6720567aa70b1bb4d.svg",
+    "index.html": "/react-wishpool/index.html",
+    "static/media/youtube.svg": "/react-wishpool/static/media/youtube.3739af44e62de5f923b254a8c63b27ca.svg",
+    "static/media/facebook.svg": "/react-wishpool/static/media/facebook.af6b58fa8ea216920ae0219129cb0c2d.svg",
+    "main.0de35e26.css.map": "/react-wishpool/static/css/main.0de35e26.css.map",
+    "main.00a3fb85.js.map": "/react-wishpool/static/js/main.00a3fb85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0de35e26.css",
+    "static/js/main.00a3fb85.js"
+  ]
+}
