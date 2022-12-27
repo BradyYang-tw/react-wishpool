@@ -8,7 +8,7 @@ import youtube from "../Icons/youtube.svg";
 const Footer = () => {
   return (
     <div className="footer">
-      <p class="right">Copyright © 2022 Brady Inc. 保留一切權利。</p>
+      <p class="right">Copyright © 2022 Brady Inc. ALL RIGHTS RESERVED.</p>
 
       {/* <a href="#">
         <img className="icon" src={fb} alt="" />
