@@ -4,7 +4,7 @@ import "./Header.css";
 const Header = () => {
   return (
     <header>
-      <svg
+      {/* <svg
         className="h1-header"
         width="208"
         height="83"
@@ -76,7 +76,8 @@ const Header = () => {
             />
           </filter>
         </defs>
-      </svg>
+      </svg> */}
+      <h1 class="title">DO SOMETHING GREAT</h1>
     </header>
   );
 };

@@ -8,7 +8,9 @@ import youtube from "../Icons/youtube.svg";
 const Footer = () => {
   return (
     <div className="footer">
-      <a href="#">
+      <p class="right">Copyright © 2022 Brady Inc. 保留一切權利。</p>
+
+      {/* <a href="#">
         <img className="icon" src={fb} alt="" />
       </a>
       <a href="#">
@@ -19,7 +21,7 @@ const Footer = () => {
       </a>
       <a href="#">
         <img className="icon" src={youtube} alt="" />
-      </a>
+      </a> */}
     </div>
   );
 };

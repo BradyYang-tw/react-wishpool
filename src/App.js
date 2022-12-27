@@ -5,6 +5,8 @@ import { Route, Routes } from "react-router-dom";
 import HomePage from "./pages/Homepage";
 import WishPage from "./pages/WishPage";
 import HelpPage from "./pages/HelpPage";
+import Introduction from "./pages/Introduction";
+import VoteWish from "./pages/VoteWIsh";
 
 function App() {
   return (
@@ -12,6 +14,8 @@ function App() {
       <Route path="/" element={<HomePage />}></Route>
       <Route path="/wish" element={<WishPage />}></Route>
       <Route path="/help" element={<HelpPage />}></Route>
+      <Route path="/introduction" element={<Introduction />}></Route>
+      <Route path="/votewish" element={<VoteWish />}></Route>
     </Routes>
   );
 }
