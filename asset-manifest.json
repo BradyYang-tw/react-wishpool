@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-wishpool/static/css/main.0de35e26.css",
-    "main.js": "/react-wishpool/static/js/main.5413756b.js",
+    "main.css": "/react-wishpool/static/css/main.a8e433e9.css",
+    "main.js": "/react-wishpool/static/js/main.f05bb89a.js",
     "static/media/who.jpg": "/react-wishpool/static/media/who.4cf68d26ddfe370a07e1.jpg",
     "static/media/vote.jpg": "/react-wishpool/static/media/vote.3d3501493ad56668b9c1.jpg",
     "static/media/wishImg.jpg": "/react-wishpool/static/media/wishImg.69d130e7eac13967c23c.jpg",
@@ -11,11 +11,11 @@
     "index.html": "/react-wishpool/index.html",
     "static/media/youtube.svg": "/react-wishpool/static/media/youtube.3739af44e62de5f923b254a8c63b27ca.svg",
     "static/media/facebook.svg": "/react-wishpool/static/media/facebook.af6b58fa8ea216920ae0219129cb0c2d.svg",
-    "main.0de35e26.css.map": "/react-wishpool/static/css/main.0de35e26.css.map",
-    "main.5413756b.js.map": "/react-wishpool/static/js/main.5413756b.js.map"
+    "main.a8e433e9.css.map": "/react-wishpool/static/css/main.a8e433e9.css.map",
+    "main.f05bb89a.js.map": "/react-wishpool/static/js/main.f05bb89a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de35e26.css",
-    "static/js/main.5413756b.js"
+    "static/css/main.a8e433e9.css",
+    "static/js/main.f05bb89a.js"
   ]
 }
