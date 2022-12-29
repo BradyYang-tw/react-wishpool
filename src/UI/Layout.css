@@ -1,0 +1,22 @@
+.layout {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  /* stroke-width: 5px;
+  stroke-dasharray: 200;
+  stroke-dashoffset: -200;
+  animation: text 15s linear infinite; */
+  width: 100%;
+  color: white;
+  font-size: 2em;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box {
+  /* flex-grow: 1; */
+}

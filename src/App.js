@@ -11,6 +11,7 @@ import VoteWish from "./pages/VoteWIsh";
 function App() {
   return (
     <Routes>
+      <Route path="/" element={<HomePage />}></Route>
       <Route path="/react-wishpool/" element={<HomePage />}></Route>
       <Route path="/react-wishpool/wish" element={<WishPage />}></Route>
       <Route path="/react-wishpool/help" element={<HelpPage />}></Route>

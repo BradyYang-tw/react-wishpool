@@ -1,0 +1,18 @@
+.layout-nav {
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+  align-items: center;
+}
+.layout-nav-li {
+  /* border: solid 1px blue; */
+  background-color: rgb(196, 191, 191);
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: 2rem;
+}
+.layout-nav-link {
+  /* color: white; */
+  text-decoration: none;
+}
