@@ -11,11 +11,14 @@ import VoteWish from "./pages/VoteWIsh";
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<HomePage />}></Route>
-      <Route path="/wish" element={<WishPage />}></Route>
-      <Route path="/help" element={<HelpPage />}></Route>
-      <Route path="/introduction" element={<Introduction />}></Route>
-      <Route path="/votewish" element={<VoteWish />}></Route>
+      <Route path="/react-wishpool/" element={<HomePage />}></Route>
+      <Route path="/react-wishpool/wish" element={<WishPage />}></Route>
+      <Route path="/react-wishpool/help" element={<HelpPage />}></Route>
+      <Route
+        path="/react-wishpool/introduction"
+        element={<Introduction />}
+      ></Route>
+      <Route path="/react-wishpool/votewish" element={<VoteWish />}></Route>
     </Routes>
   );
 }
