@@ -1,0 +1,14 @@
+.wishpage-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+.wishpage-formitem {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+#wishpage-description {
+  height: 20vh;
+}
